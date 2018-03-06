@@ -476,6 +476,39 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 20px;
 }
 
+/*-------------------------------------------------------------
+Best Prices Section
+--------------------------------------------------------------*/
+#prices {
+  background: #fff;
+  padding: 80px 0;
+}
+
+#prices .prices-container {
+  background: url('../img/General-Products.jpg');
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: 350px 250px;
+}
+
+#prices .prices-content {
+  background: #fff;
+}
+
+#prices .prices-title {
+  color: #333;
+  font-weight: 700;
+  font-size: 28px;
+}
+
+#prices .prices-text {
+  line-height: 26px;
+}
+
+#prices .prices-text:last-child {
+  margin-bottom: 0;
+}
+
 /* Get Started Section
 --------------------------------*/
 #about {
