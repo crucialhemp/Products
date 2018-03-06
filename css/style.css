@@ -485,9 +485,11 @@ Best Prices Section
 }
 
 #prices .prices-container {
-  background: url('../img/General-Products.jpg');
+  background: url('https://i.imgur.com/YaQihk4.jpg');
   background-position: left;
   background-repeat: no-repeat;
+  background-size: 350px 250px;
+  background-position-x: 20%;
 }
 
 #prices .prices-content {
